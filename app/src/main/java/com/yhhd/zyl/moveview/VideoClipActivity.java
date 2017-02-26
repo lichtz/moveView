@@ -704,6 +704,7 @@ public class VideoClipActivity extends VideoBaseActivity {
 
         @Override
         protected void onPreExecute() {
+            //
             //创建进度条
 //            dialog = new Dialog(VideoClipActivity.this, R.style.Dialog_loading_noDim);
 //            Window window = dialog.getWindow();
